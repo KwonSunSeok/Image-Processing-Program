@@ -1,0 +1,116 @@
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe.config
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Form1.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input1.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input2.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe.config
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csprojAssemblyReference.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Form1.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Properties.Resources.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input1.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input2.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.GenerateResource.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CoreCompileInputs.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CopyComplete
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe.config
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.xml
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Form1.resources
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input1.resources
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input2.resources
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe.config
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Form1.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input1.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input2.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day021-01 컴퓨터 비전 OpenCV 01.csproj.CopyComplete
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.pdb

@@ -1,0 +1,45 @@
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.exe.config
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021_03_센서차트_그리기.Form1.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021_03_센서차트_그리기.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.exe.config
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.exe
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.pdb
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021_03_센서차트_그리기.Form1.resources
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021_03_센서차트_그리기.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.exe
+C:\Users\kccistc\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.exe.config
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.exe
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Day021-03 센서차트 그리기.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\bin\Debug\Renci.SshNet.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021_03_센서차트_그리기.Form1.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021_03_센서차트_그리기.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.csproj.CopyComplete
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.exe
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\Day021\Day021-03 센서차트 그리기\obj\Debug\Day021-03 센서차트 그리기.pdb

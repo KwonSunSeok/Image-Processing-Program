@@ -1,0 +1,24 @@
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe.config
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Form1.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input1.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input2.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe.config
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\bin\Debug\Day019-01 칼라 영상처리 01.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.csprojAssemblyReference.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Form1.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Properties.Resources.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input1.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019_01_칼라_영상처리_01.Sub_Input2.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.csproj.GenerateResource.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.csproj.CoreCompileInputs.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\Day019\Day019-01 칼라 영상처리 01\obj\Debug\Day019-01 칼라 영상처리 01.pdb

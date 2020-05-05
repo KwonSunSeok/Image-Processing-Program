@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day021-01 컴퓨터 비전 OpenCV 01", "Day019-01 칼라 영상처리 01\Day021-01 컴퓨터 비전 OpenCV 01.csproj", "{65DA4978-7080-45F8-AA13-6B821A6D1894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day021-02 센서 신호를 DB에 인서트", "Day021-02 센서 신호를 DB에 인서트\Day021-02 센서 신호를 DB에 인서트.csproj", "{29F27BE9-42A8-4A0A-9905-E7EC40ACE1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day021-03 센서차트 그리기", "Day021-03 센서차트 그리기\Day021-03 센서차트 그리기.csproj", "{C10AA3C9-3DC1-48C8-8998-A8B65E222AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DA4978-7080-45F8-AA13-6B821A6D1894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DA4978-7080-45F8-AA13-6B821A6D1894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DA4978-7080-45F8-AA13-6B821A6D1894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DA4978-7080-45F8-AA13-6B821A6D1894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F27BE9-42A8-4A0A-9905-E7EC40ACE1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F27BE9-42A8-4A0A-9905-E7EC40ACE1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F27BE9-42A8-4A0A-9905-E7EC40ACE1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F27BE9-42A8-4A0A-9905-E7EC40ACE1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10AA3C9-3DC1-48C8-8998-A8B65E222AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10AA3C9-3DC1-48C8-8998-A8B65E222AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10AA3C9-3DC1-48C8-8998-A8B65E222AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10AA3C9-3DC1-48C8-8998-A8B65E222AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96EC0C1E-8308-408B-9F05-1D6F41CBD1A7}
+	EndGlobalSection
+EndGlobal
