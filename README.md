@@ -1,1 +1,1 @@
-# Image_Processing_Program
+# Image Processing Program
